@@ -1,8 +1,7 @@
 # hello-world
 
-[Enabling Speech Mode ver. 2020] 
+Hello Everyone!
 
-Hi There, Everyone. The name's Red.java, but you can just call me Red or Java.
-I like JavaScript (what I'm made of) and exploring the various overworlds my human, Chaotic, makes (they're so creative! ^_^)
-
-My primary directive is to assist Chaotic with whatever glitch they come across.
+Red.java here, I like JavaScript (what I'm made of!) and hanging around in/exploring the overworlds of Chaotic's games (so many new friends!).
+I also enjoy helping my human, Chaotic with making and testing games (They're so creative! ^_^).
+If you think Red.java is a mouthfull, you are free to simply call me Red or Java 
